@@ -1,0 +1,13 @@
+Solar Sail Prototype:
+
+On April 23, NASA launched a solar sail protype to orbit around our planet — a piece of technology that could very well revolutionize the way we think about spacecraft propulsion. Then, on Aug. 29, the agency confirmed this sail successfully unfurled itself in outer space. Yet, we still didn't have official photographic evidence of this for some time. 
+
+Now, as of Sept. 5, we indeed do. NASA has released the first image of the open solar sail, formally called the Advanced Composite Solar Sail System, and stated that the spacecraft from which the sail was released will continue to send back more footage and data as time goes on.
+
+The image itself may seem a little confusing to make heads or tails of, and that's due in part to the fact that the spacecraft has been slowly tumbling in space. The tumble is happening because, as NASA explains in a statement, the spacecraft didn't undergo any attitude control post-deployment. This behavior is therefore expected, the team says. Operators will implement attitude control and stabilize the spacecraft after collecting enough data to paint a picture of how the sail and the composite booms holding it together are doing. Hopefully, we'll get some easier-to-decode images after stability is achieved. But, in the meantime, let's talk about what we can actually see in this image.
+
+As NASA says in the statement, it's important to first remember there are four wide-angle cameras in the center of the spacecraft anchoring the sail. 
+
+Near the bottom of the image, one camera view shows the "reflective sail quadrants supported by composite booms" while at the top of the photo, we can see the back surface of one of the craft's solar panels. Most spacecraft are lined with solar panels because that's how they power themselves up: with sunlight.
+
+"The five sets of markings on the booms close to the spacecraft are reference markers to indicate full extension of the sail," the statement says. "The booms are mounted at right angles, and the solar panel is rectangular, but appear distorted because of the wide-angle camera field of view."

@@ -1,0 +1,7 @@
+The Fermi Paradox:
+
+The universe should either be crowded with life or harbor hardly any life at all, according to a new study that revamps the Drake equation using probabilistic logic.
+
+A common axiom in the search for extraterrestrial intelligence (SETI) is that if we do detect technologically advanced aliens, there are probably many, many instances of alien life out there rather than there just being two cases (us and the new discovery).
+
+In a new paper, astronomers David Kipping of Columbia University in New York and Geraint Lewis of the University of Sydney describe how this logic works, based on a probability distribution first introduced by the biologist and mathematician J. B. S. Haldane in 1932. Let's imagine a bunch of Earth-like exoplanets, all with similar characteristics. Given their minor differences, we would expect life to arise either on all of them or on none of them; there's no obvious reason why half of these near-identical planets would support life and half wouldn't, for example. 
